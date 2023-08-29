@@ -1,7 +1,1 @@
-{{#user}}
 
-Name: Dhananjay Satish Kupekar
-Skills: HTML,CSS,Javascript, Unreal Engine,Wordpress,MYSQL,Chat GPT Prompting, Git Hub .
-Email: dhananjaysatishk@gmail.com
-
-{{/user}}
